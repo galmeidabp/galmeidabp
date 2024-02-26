@@ -11,13 +11,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galmeidabp&bg_color=0d1117&color=59b4c3&line=f2f597&point=f2f597&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+##
+
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
-
-##
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/gabriella-almeida-07b3872b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
