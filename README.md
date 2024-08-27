@@ -19,6 +19,7 @@
           
 </div><br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=06D001&center=true&vCenter=true&width=435&lines=Find+me:)](https://git.io/typing-svg)
 <div align="center"> 
   <a href="https://www.linkedin.com/in/galmeidabp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="mailto:galmeidabp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
