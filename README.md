@@ -1,22 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6F5F2&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AF0404&size=35&center=true&vCenter=true&width=1000&lines=Hii,+my+name+is+Gabriella;I'm+a+programming+student;I'm+from+Brazil;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06D001&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+:%29;I'm+a+front-end+programmer;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=galmeidabp&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=AF0404&text_color=c9d1d9&bg_color=0d1117" alt="Gabriella Almeida github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galmeidabp&layout=compact&hide_border=true&title_color=59B4C3&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=galmeidabp&show_icons=true&count_private=true&hide_border=true&title_color=06D001&icon_color=06D001&text_color=F5F7F8&bg_color=0d1117" alt="Gabriella Almeida github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galmeidabp&layout=compact&hide_border=true&title_color=06D001&text_color=F5F7F8&bg_color=0d1117" />
 </div>
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galmeidabp&bg_color=0d1117&color=eeeeee&line=af0404&point=af0404&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
-
 <div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  
+##
+          
 </div><br>
 
 <div align="center"> 
@@ -24,5 +24,3 @@
    <a href="mailto:galmeidabp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6F5F2&height=120&section=footer"/>
