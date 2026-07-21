@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=1000&lines=Olá+:%29;Eu+sou+uma+programadora+front-end;)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galmeidabp&layout=compact&hide_border=true&title_color=D3D3D3&text_color=F5F7F8&bg_color=0d1117" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=2000&lines=Olá+:%29;Eu+sou+uma+programadora+front-end;)](https://git.io/typing-svg)
 
 ##
 
@@ -26,3 +22,10 @@
   <a href="mailto:galmeidabp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galmeidabp/galmeidabp/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galmeidabp/galmeidabp/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/galmeidabp/galmeidabp/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
