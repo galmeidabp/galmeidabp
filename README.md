@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=2000&lines=Olá+:%29;Eu+sou+uma+programadora+front-end;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=55&center=true&vCenter=true&width=2000&lines=Olá+:%29;Me+chamo+Gabriella!;Sou+uma+desenvolvedora+front-end;)](https://git.io/typing-svg)
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&vCenter=true&width=435&lines=Skills:)](https://git.io/typing-svg)
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
